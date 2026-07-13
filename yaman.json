@@ -1,0 +1,6 @@
+{
+  "students": [
+    {"name": "Monster Arc", "course": "BSc.CSIT"},
+    {"name": "Someone Else", "course": "BIT"}
+  ]
+}
